@@ -1,0 +1,21 @@
+a {
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	font-family: arial;
+
+}
+
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+li {
+	display: inline-block;
+}
+
+body {
+	background-color: orange;
+}
